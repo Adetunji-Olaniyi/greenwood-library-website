@@ -50,4 +50,36 @@ contact.html
 
 3. I will stage, commit, and push the changes directly to the main branch.
 
+Git Status
 
+![Gitstatus](./img/9.Git%20status.png)
+
+Git Add
+
+![GitAdd](./img/10.Gitadd.png)
+
+git commit -m "message"
+
+![gitcommit](./img/11.gitcommit.png)
+
+git push
+
+![Gitpush](./img/12.Gitpush.png)
+
+## Morgan's Work: Adding Book Reviews
+
+1. Create a Branch for Morgan:
+
+git checkout -b add-book-reviews
+
+2. Switch to a new branch name add-book-reviews
+
+![addbookreviews](./img/13.Gitcheckout%20addbookreviews.png)
+
+3. Add a new file "book_reviews.html" to represent the book reviews sections:
+
+4. Add a random text content into the file
+
+![bookreviewfile](./img/14.bookreviews.png)
+
+5. Stage, commit, and push chnages with a message "Add book reviews sections."
