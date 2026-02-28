@@ -83,3 +83,40 @@ git checkout -b add-book-reviews
 ![bookreviewfile](./img/14.bookreviews.png)
 
 5. Stage, commit, and push chnages with a message "Add book reviews sections."
+
+git status
+
+![gitstatus](./img/15.Gitstatus.png)
+
+
+git add .
+
+![gitadd](./img/16.Gitadd.png)
+
+git commit -m "message"
+
+![gitcommit](./img/17.Gitcommit.png)
+
+6. Push
+git push
+
+![gitpush](./img/18.Gitpush.png)
+
+7. Raise a PR (Pull Request) for Morgan's work
+
+![raisepr](./img/19.Pull%20reguest.png)
+
+8. Merge Morgan's work to the main branch.
+
+![](./img/20.createpullrequest.png)
+![merge](./img/20.createpullrequest.png)
+![merge](./img/21.%20Merge%20pull%20request.png)
+![merged](./img/22.%20merged%20add%20reviews.png)
+
+## Jamie's Work: Update Event Pages
+We would repeat the same flow for Jamie's work on Events pages. we would ensure Jamie's work is in "update-events" branch.
+
+Create Jamie's branch
+
+git checkout -b update-events
+
