@@ -120,3 +120,41 @@ Create Jamie's branch
 
 git checkout -b update-events
 
+![gitcheckout](./img/23.Gitcheckoutupdate%20events.png)
+
+git pull origin main
+
+![pushoriginmain](./img/pull%20originmain.png)
+
+Add a new file
+
+![Addnewfile](./img/24.updateeventshtml.png)
+
+Git Status
+
+![gitstatus](./img/25.status.png)
+
+Git Add
+
+![gitadd](./img/26.gitadd.png)
+
+Git commit
+
+![gitcommit](./img/28.Gitcommit.png)
+
+Git Push
+
+![gitpush](./img/29.Gitpush.png)
+
+Jamie's Pull Request
+
+![pullrequest](./img/30.updateeventspullrequest.png)
+
+![](./img/31.createpullrequest.png)
+
+![](./img/32.mergepull%20request.png)
+
+
+![](./img/33.update%20events%20mergerged.png)
+
+End.
