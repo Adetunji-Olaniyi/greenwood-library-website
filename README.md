@@ -157,4 +157,6 @@ Jamie's Pull Request
 
 ![](./img/33.update%20events%20mergerged.png)
 
+![](./img/34.Merge.png)
+
 End.
